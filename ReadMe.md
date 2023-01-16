@@ -14,3 +14,16 @@
 7. git remote add origin .
 
 7. git push.
+
+
+- Java Compile and Run Application
+1. java --version
+
+2. javac --version
+
+3. cd (into java files directory)
+
+4. javac -d . *.java
+
+5. java -cp . sg/edu/nus/iss.App
+
